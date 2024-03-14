@@ -1,5 +1,5 @@
 
-<h3 align="center">Integrated Mailchimp events API</h3>
+<h3 align="left">Integrated Mailchimp events API</h3>
 
 
 
