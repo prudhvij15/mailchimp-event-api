@@ -28,7 +28,7 @@ To integrate the Mailchimp Events API into your project:
 
 3. **Configure API:** Configure the Mailchimp Events API in your project by specifying endpoints and authentication methods.
 
-For detailed instructions and API documentation, refer to the [Mailchimp Events API Documentation]([https://mailchimp.com/developer/marketing/api/](https://mailchimp.com/developer/marketing/api/list-member-events/list-member-events/)).
+For detailed instructions and API documentation, refer to the [Mailchimp Events API Documentation](https://mailchimp.com/developer/marketing/api/list-member-events/list-member-events/).
 
 
 
